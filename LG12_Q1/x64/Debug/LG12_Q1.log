@@ -1,0 +1,3 @@
+﻿  Q1.cpp
+C:\Users\asus\Desktop\152\Lab Guide 11\LG12_SOLS\LG12_Q1\Q1.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LG12_Q1.vcxproj -> C:\Users\asus\Desktop\152\Lab Guide 11\LG12_SOLS\x64\Debug\LG12_Q1.exe
